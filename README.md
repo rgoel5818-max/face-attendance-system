@@ -17,7 +17,7 @@ Python + OpenCV based attendance system using face recognition.
 - Pandas
 
 ## Demo Video
-PASTE YOUR VIDEO LINK HERE
+https://drive.google.com/file/d/1UTD1WYKe9wefua3XUqDIKndffSLZl4O3/view?usp=sharing
 
 ## How to Run
 
